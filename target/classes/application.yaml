@@ -1,0 +1,56 @@
+server:
+  error:
+    include-message: always
+    include-binding-errors: always
+
+app:
+  server:
+    url: ${app.server.url}
+
+spring:
+  main:
+    banner-mode: off
+  servlet:
+    multipart:
+      max-file-size: 10MB
+
+  datasource:
+    url: jdbc:postgresql://localhost:5432/bankapp
+    username: postgres
+    password: 5432
+    driver-class-name: org.postgresql.Driver
+
+  jpa:
+    show-sql: false
+    hibernate:
+      ddl-auto: create
+    database-platform: org.hibernate.dialect.PostgreSQLDialect
+    properties:
+      hibernate:
+        format_sql: true
+
+  mail:
+    host: localhost
+    port: 1025
+    username: hello
+    password: hello
+
+    properties:
+      mail:
+        smtp:
+          ssl:
+            trust: "*"
+          auth: true
+          starttls:
+            enable: true
+          connectiontimeout: 5000
+          timeout: 3000
+          writetimeout: 5000
+
+
+#logging:
+#  level:
+#    org.springframework: DEBUG
+
+
+
