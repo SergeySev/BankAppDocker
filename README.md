@@ -10,13 +10,14 @@ Docker
 
 ### Installation
 1. Clone the repository by running the following command in your terminal:
-git clone https://github.com/SergeySev/BankAppDocker.git
+### `git clone https://github.com/SergeySev/BankAppDocker.git`
 
 2. Launch Docker on your machine.
 
 3. Open the terminal and navigate to the directory where you cloned the project
 
-4. Run the project using the following command: docker compose up
+4. Run the project using the following command: 
+### `docker compose up`
 
 5. Wait for the download to complete. This will take some time, as the required Docker images need to be downloaded and the containers need to be started.
 
