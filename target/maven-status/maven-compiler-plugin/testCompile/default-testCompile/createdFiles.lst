@@ -1,6 +1,7 @@
 com/example/telproject/TelProjectApplicationTests.class
+com/example/telproject/CreateManagerEntity.class
 com/example/telproject/service/ManagerServiceTest.class
-com/example/telproject/controller/ManagerControllerTest.class
-com/example/telproject/service/AccountServiceTest.class
 com/example/telproject/service/ClientServiceTest.class
 com/example/telproject/service/ClientDocumentServiceTest.class
+com/example/telproject/controller/ManagerControllerTest.class
+com/example/telproject/service/AccountServiceTest.class

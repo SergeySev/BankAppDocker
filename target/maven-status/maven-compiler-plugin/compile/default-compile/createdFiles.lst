@@ -6,6 +6,7 @@ com/example/telproject/dto/ClientDTO.class
 com/example/telproject/exception/ManagerContainerException.class
 com/example/telproject/entity/Account.class
 com/example/telproject/mapper/ManagerMapper.class
+com/example/telproject/dto/TransactionCreateDto.class
 com/example/telproject/repository/ProductRepository.class
 com/example/telproject/controller/ClientDocumentController.class
 com/example/telproject/TelProjectApplication.class
@@ -23,6 +24,7 @@ com/example/telproject/exception/ManagerExceptionHandler.class
 com/example/telproject/entity/Manager.class
 com/example/telproject/entity/Transaction.class
 com/example/telproject/entity/enums/AccountType.class
+com/example/telproject/dto/ManagerCreateDto.class
 com/example/telproject/dto/TransactionDTO.class
 com/example/telproject/entity/Agreement.class
 com/example/telproject/controller/TransactionController.class
@@ -57,6 +59,7 @@ com/example/telproject/entity/enums/AccountStatus.class
 com/example/telproject/entity/enums/CurrencyType.class
 com/example/telproject/entity/enums/TransactionType.class
 com/example/telproject/entity/ClientDocument.class
+com/example/telproject/dto/ClientCreateDto.class
 com/example/telproject/service/ManagerService.class
 com/example/telproject/email/EmailSender.class
 com/example/telproject/dto/AccountDTO.class

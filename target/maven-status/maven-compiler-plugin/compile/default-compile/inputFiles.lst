@@ -1,4 +1,5 @@
 /Users/sergejivanov/IdeaProjects/TelProject/src/main/java/com/example/telproject/config/DataConfig.java
+/Users/sergejivanov/IdeaProjects/TelProject/src/main/java/com/example/telproject/dto/TransactionCreateDto.java
 /Users/sergejivanov/IdeaProjects/TelProject/src/main/java/com/example/telproject/controller/ClientController.java
 /Users/sergejivanov/IdeaProjects/TelProject/src/main/java/com/example/telproject/security/CheckingEmail.java
 /Users/sergejivanov/IdeaProjects/TelProject/src/main/java/com/example/telproject/email/EmailService.java
@@ -52,7 +53,9 @@
 /Users/sergejivanov/IdeaProjects/TelProject/src/main/java/com/example/telproject/service/AccountService.java
 /Users/sergejivanov/IdeaProjects/TelProject/src/main/java/com/example/telproject/exception/ManagerRequestException.java
 /Users/sergejivanov/IdeaProjects/TelProject/src/main/java/com/example/telproject/controller/TransactionController.java
+/Users/sergejivanov/IdeaProjects/TelProject/src/main/java/com/example/telproject/dto/ClientCreateDto.java
 /Users/sergejivanov/IdeaProjects/TelProject/src/main/java/com/example/telproject/repository/ManagerRepository.java
 /Users/sergejivanov/IdeaProjects/TelProject/src/main/java/com/example/telproject/repository/ClientDocumentRepository.java
+/Users/sergejivanov/IdeaProjects/TelProject/src/main/java/com/example/telproject/dto/ManagerCreateDto.java
 /Users/sergejivanov/IdeaProjects/TelProject/src/main/java/com/example/telproject/dto/TransactionDTO.java
 /Users/sergejivanov/IdeaProjects/TelProject/src/main/java/com/example/telproject/security/PasswordEncoder.java
